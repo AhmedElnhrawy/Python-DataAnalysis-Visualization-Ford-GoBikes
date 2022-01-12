@@ -1,6 +1,6 @@
 # Python-Explanatory-Data-Analysis
 
-Dataset is "ford go bike rides"
+ ford go bike rides Dataset
 Summary: the dataset is collection of bike rides in many different start and end stations, bike_id, member_birth_year, user_type and duration_sec is the most intrested variable.
 I'm interested in how duration varies and who are likely to ride more.
 I cleaned the data from null and duplicated values to retain data effectiveness
